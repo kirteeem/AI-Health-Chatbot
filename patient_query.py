@@ -6,7 +6,6 @@ load_dotenv()
 
 import os
 import logging
-import speech_recognition as sr
 from pydub import AudioSegment
 from io import BytesIO
 from groq import Groq
